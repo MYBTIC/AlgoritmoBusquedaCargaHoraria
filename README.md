@@ -3,4 +3,4 @@ Este proyecto se implementa un algoritmo de busqueda que permite encontrar si ex
 Ademas permite al ususario observar los estudiantes y las materias totales recibidas de archivos .csv.
 
 ### Link proyecto:
-
+https://github.com/MYBTIC/AlgoritmoBusquedaCargaHoraria.git
